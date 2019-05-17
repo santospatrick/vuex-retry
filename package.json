@@ -1,0 +1,9 @@
+{
+  "private": false,
+  "name": "vuex-retry",
+  "version": "0.0.1",
+  "main": "index.js",
+  "repository": "git@github.com:santospatrick/vuex-retry.git",
+  "author": "Patrick Santos <patrickspteixeira@gmail.com>",
+  "license": "MIT"
+}
